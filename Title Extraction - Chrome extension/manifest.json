@@ -1,0 +1,11 @@
+
+{
+    "name":"Get Title",
+    "manifest_version":3,
+    "version":"0.0.1",
+    "description":"grabs the title of the current tab",
+    "permissions":["tabs"],
+    "action":{
+        "default_popup":"popup.html"
+    }
+}
